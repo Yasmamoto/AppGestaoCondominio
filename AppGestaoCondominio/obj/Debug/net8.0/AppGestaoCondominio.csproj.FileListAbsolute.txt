@@ -1,0 +1,14 @@
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\bin\Debug\net8.0\AppGestaoCondominio.exe
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\bin\Debug\net8.0\AppGestaoCondominio.deps.json
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\bin\Debug\net8.0\AppGestaoCondominio.runtimeconfig.json
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\bin\Debug\net8.0\AppGestaoCondominio.dll
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\bin\Debug\net8.0\AppGestaoCondominio.pdb
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.AssemblyInfoInputs.cache
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.AssemblyInfo.cs
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.csproj.CoreCompileInputs.cache
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.dll
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\refint\AppGestaoCondominio.dll
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.pdb
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\AppGestaoCondominio.genruntimeconfig.cache
+C:\Users\yamam\OneDrive\Documents\Reuniões Meet\AppGestaoCondominio\AppGestaoCondominio\obj\Debug\net8.0\ref\AppGestaoCondominio.dll
