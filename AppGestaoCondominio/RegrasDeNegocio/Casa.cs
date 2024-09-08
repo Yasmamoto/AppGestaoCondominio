@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppGestaoCondominio.RegrasDeNegocio
 {
-    internal class Casa
+    public class Casa
     {
     }
 }

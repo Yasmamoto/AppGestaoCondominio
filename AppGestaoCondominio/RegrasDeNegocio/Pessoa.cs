@@ -13,13 +13,13 @@ namespace AppGestaoCondominio.RegrasDeNegocio
         public string DataNascimento { get; set; }
         public string CPF { get; set; }
         public double Renda { get; set; }
-       public string Titular(string titular)
+        public string Titular(string titular)
         {
-            if(titular == "S")
+            if (titular == "S")
             {
                 titular = "É PROPRIETARIO TITULAR";
             }
-            else if(titular == "N")
+            else if (titular == "N")
             {
                 titular = "NÃO É PROPRIETARIO TITULAR";
             }
