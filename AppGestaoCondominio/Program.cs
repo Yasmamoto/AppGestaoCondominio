@@ -1,5 +1,5 @@
 ﻿using AppGestaoCondominio.RegrasDeNegocio;
-
+List<Casa> casas = new List<Casa>();
 int opcao = 1;
 int contador = 1;
 
@@ -26,5 +26,13 @@ while (opcao != 0)
     Console.WriteLine("\t\t* + ------------------------------------------------------------------------------- * +");
     Console.Write("                Opção N°..............");
     opcao = Convert.ToInt32(Console.ReadLine());
-    Console.ReadKey();
+
+    switch (opcao)
+    {
+        case 2:
+            
+            break;
+    }
 }
+
+

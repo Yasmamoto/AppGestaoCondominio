@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppGestaoCondominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7620e30e74cd79a934ec4fcd8b88c111672495e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c969739b7bfec9f53d728eb28e532659cccc86a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppGestaoCondominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppGestaoCondominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
